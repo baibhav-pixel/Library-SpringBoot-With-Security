@@ -10,13 +10,15 @@ Self Projects on Java Backend Development (Count=2)
 -> Upon returning the Book the system checks for fine if any.
 -> Necessary APIs are secured to avoid unnecessary interventions from unauthorized users (Be ready to see 401 and 403 error codes now!!!)
 
-What's New - All the necessary APIs are made secured and requires authentication for using. Its recommended to use POSTMAN for the API testing.
+#What's New
+All the necessary APIs are made secured and requires authentication for using. Its recommended to use POSTMAN for the API testing.
 
-Skills: MySQL, Java 8, SpringBoot, Hibernate, JPA, Maven, OOP, Spring Security
+#Skills: 
+MySQL, Java 8, SpringBoot, Hibernate, JPA, Maven, OOP, Spring Security
 Tools/Technologies: IntelliJ Idea IDE, Postman, Git, MySQL Command Line Client
 
-Some Tips:
-You need to add first admin manually and then it allows other admins to be created.
-If you get an error like 'Error creating bean with name 'entityManagerFactory'" then check:
+#Some Tips:
+You need to add first admin manually and then it allows other admins to be created.
+If you get an error like 'Error creating bean with name 'entityManagerFactory'" then check:
 1. Application.properties file
 2. Check whether MySQL is running via cmd prompt
